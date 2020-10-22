@@ -17,4 +17,5 @@ int main(int argc, char *argv[])
         }
         printf("suma tych liczb to %d\n", a);
     }
+    return 0;
 }
